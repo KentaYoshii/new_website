@@ -2755,7 +2755,7 @@ input, select, textarea {
 			width: 40%;
 		}
 
-			.tiles article .image {
+			.tiles 	 .image {
 				display: none;
 			}
 
